@@ -1,0 +1,793 @@
+ 2024-10-24 09:25:16,474 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 09:25:16,474 : INFO : test_formSubmission : INFO message
+ 2024-10-24 09:25:16,474 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 09:25:16,474 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 09:25:16,474 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 09:32:02,211 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 09:32:02,211 : INFO : test_formSubmission : INFO message
+ 2024-10-24 09:32:02,212 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 09:32:02,212 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 09:32:02,212 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 09:37:08,586 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 09:37:08,587 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 09:37:08,587 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 09:37:08,587 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 09:37:08,587 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 09:37:08,592 : DEBUG : test_e2e : DEBUG messange
+ 2024-10-24 09:37:08,592 : INFO : test_e2e : INFO message
+ 2024-10-24 09:37:08,592 : WARNING : test_e2e : WARNING message
+ 2024-10-24 09:37:08,593 : ERROR : test_e2e : ERROR messgae
+ 2024-10-24 09:37:08,593 : CRITICAL : test_e2e : CRITICAL message
+ 2024-10-24 09:39:06,800 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 09:39:06,801 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 09:39:06,801 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 09:39:06,801 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 09:39:06,801 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 09:39:06,808 : DEBUG : test_e2e : DEBUG messange
+ 2024-10-24 09:39:06,808 : INFO : test_e2e : INFO message
+ 2024-10-24 09:39:06,808 : WARNING : test_e2e : WARNING message
+ 2024-10-24 09:39:06,808 : ERROR : test_e2e : ERROR messgae
+ 2024-10-24 09:39:06,809 : CRITICAL : test_e2e : CRITICAL message
+ 2024-10-24 09:39:06,809 : INFO : test_e2e : Click on shop
+ 2024-10-24 09:42:36,849 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 09:42:36,850 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 09:42:36,850 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 09:42:36,850 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 09:42:36,850 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 09:42:36,857 : DEBUG : test_e2e : DEBUG messange
+ 2024-10-24 09:42:36,857 : INFO : test_e2e : INFO message
+ 2024-10-24 09:42:36,857 : WARNING : test_e2e : WARNING message
+ 2024-10-24 09:42:36,857 : ERROR : test_e2e : ERROR messgae
+ 2024-10-24 09:42:36,857 : CRITICAL : test_e2e : CRITICAL message
+ 2024-10-24 09:42:36,857 : INFO : test_e2e : Click on shop
+ 2024-10-24 19:39:28,216 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:39:28,217 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:39:28,217 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:39:28,217 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:39:28,217 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:39:28,231 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 19:39:28,232 : INFO : test_formSubmission : INFO message
+ 2024-10-24 19:39:28,232 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 19:39:28,232 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 19:39:28,232 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 19:39:28,232 : INFO : test_formSubmission : launching website
+ 2024-10-24 19:39:30,017 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 19:39:30,018 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 19:39:30,446 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 19:39:33,036 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:39:33,036 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:39:33,036 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:39:33,036 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:39:33,036 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:39:33,036 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:39:33,037 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:39:33,037 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:39:33,037 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:39:33,037 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:39:33,046 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 19:39:33,046 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 19:39:33,046 : INFO : test_formSubmission : INFO message
+ 2024-10-24 19:39:33,046 : INFO : test_formSubmission : INFO message
+ 2024-10-24 19:39:33,046 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 19:39:33,046 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 19:39:33,047 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 19:39:33,047 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 19:39:33,047 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 19:39:33,047 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 19:39:33,047 : INFO : test_formSubmission : launching website
+ 2024-10-24 19:39:33,047 : INFO : test_formSubmission : launching website
+ 2024-10-24 19:39:34,527 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 19:39:34,527 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 19:39:34,527 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 19:39:34,527 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 19:39:35,043 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 19:39:35,043 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 19:39:37,633 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:39:37,633 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:39:37,633 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:39:37,633 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:39:37,633 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:39:37,633 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:39:37,634 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:39:37,634 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:39:37,634 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:39:37,634 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:39:37,634 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:39:37,634 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:39:37,634 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:39:37,634 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:39:37,634 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:39:37,641 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 19:39:37,641 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 19:39:37,641 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 19:39:37,642 : INFO : test_formSubmission : INFO message
+ 2024-10-24 19:39:37,642 : INFO : test_formSubmission : INFO message
+ 2024-10-24 19:39:37,642 : INFO : test_formSubmission : INFO message
+ 2024-10-24 19:39:37,642 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 19:39:37,642 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 19:39:37,642 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 19:39:37,642 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 19:39:37,642 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 19:39:37,642 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 19:39:37,642 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 19:39:37,642 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 19:39:37,642 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 19:39:37,642 : INFO : test_formSubmission : launching website
+ 2024-10-24 19:39:37,642 : INFO : test_formSubmission : launching website
+ 2024-10-24 19:39:37,642 : INFO : test_formSubmission : launching website
+ 2024-10-24 19:39:39,116 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 19:39:39,116 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 19:39:39,116 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 19:39:39,117 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 19:39:39,117 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 19:39:39,117 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 19:39:39,549 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 19:39:39,549 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 19:39:39,549 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 19:39:41,937 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:39:41,937 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:39:41,937 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:39:41,937 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:39:41,938 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:39:41,938 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:39:41,938 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:39:41,938 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:39:41,938 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:39:41,938 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:39:41,938 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:39:41,938 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:39:41,938 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:39:41,938 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:39:41,938 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:39:41,938 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:39:41,938 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:39:41,938 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:39:41,938 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:39:41,938 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:39:41,943 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 19:39:41,943 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 19:39:41,943 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 19:39:41,943 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 19:39:41,944 : INFO : test_formSubmission : INFO message
+ 2024-10-24 19:39:41,944 : INFO : test_formSubmission : INFO message
+ 2024-10-24 19:39:41,944 : INFO : test_formSubmission : INFO message
+ 2024-10-24 19:39:41,944 : INFO : test_formSubmission : INFO message
+ 2024-10-24 19:39:41,944 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 19:39:41,944 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 19:39:41,944 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 19:39:41,944 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 19:39:41,944 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 19:39:41,944 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 19:39:41,944 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 19:39:41,944 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 19:39:41,944 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 19:39:41,944 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 19:39:41,944 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 19:39:41,944 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 19:39:41,944 : INFO : test_formSubmission : launching website
+ 2024-10-24 19:39:41,944 : INFO : test_formSubmission : launching website
+ 2024-10-24 19:39:41,944 : INFO : test_formSubmission : launching website
+ 2024-10-24 19:39:41,944 : INFO : test_formSubmission : launching website
+ 2024-10-24 19:39:43,501 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 19:39:43,501 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 19:39:43,501 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 19:39:43,501 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 19:39:43,502 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 19:39:43,502 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 19:39:43,502 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 19:39:43,502 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 19:39:43,984 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 19:39:43,984 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 19:39:43,984 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 19:39:43,984 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 19:39:46,407 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:39:46,407 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:39:46,407 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:39:46,407 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:39:46,407 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:39:46,407 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:39:46,407 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:39:46,407 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:39:46,407 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:39:46,407 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:39:46,407 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:39:46,407 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:39:46,407 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:39:46,407 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:39:46,407 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:39:46,407 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:39:46,407 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:39:46,407 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:39:46,407 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:39:46,407 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:39:46,408 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:39:46,408 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:39:46,408 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:39:46,408 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:39:46,408 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:39:46,419 : DEBUG : test_e2e : DEBUG messange
+ 2024-10-24 19:39:46,419 : INFO : test_e2e : INFO message
+ 2024-10-24 19:39:46,419 : WARNING : test_e2e : WARNING message
+ 2024-10-24 19:39:46,419 : ERROR : test_e2e : ERROR messgae
+ 2024-10-24 19:39:46,419 : CRITICAL : test_e2e : CRITICAL message
+ 2024-10-24 19:39:46,419 : INFO : test_e2e : Click on shop
+ 2024-10-24 19:46:52,312 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:46:52,313 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:46:52,313 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:46:52,313 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:46:52,313 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:46:52,319 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 19:46:52,319 : INFO : test_formSubmission : INFO message
+ 2024-10-24 19:46:52,319 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 19:46:52,319 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 19:46:52,319 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 19:46:52,330 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 19:46:52,330 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 19:46:52,819 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 19:47:37,681 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:47:37,682 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:47:37,682 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:47:37,682 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:47:37,682 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:47:37,690 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 19:47:37,690 : INFO : test_formSubmission : INFO message
+ 2024-10-24 19:47:37,690 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 19:47:37,690 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 19:47:37,690 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 19:47:37,699 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 19:47:37,700 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 19:47:38,183 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 19:47:56,009 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:47:56,010 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:47:56,010 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:47:56,010 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:47:56,010 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:47:56,014 : DEBUG : test_e2e : DEBUG messange
+ 2024-10-24 19:47:56,015 : INFO : test_e2e : INFO message
+ 2024-10-24 19:47:56,015 : WARNING : test_e2e : WARNING message
+ 2024-10-24 19:47:56,015 : ERROR : test_e2e : ERROR messgae
+ 2024-10-24 19:47:56,015 : CRITICAL : test_e2e : CRITICAL message
+ 2024-10-24 19:47:56,015 : INFO : test_e2e : Click on shop
+ 2024-10-24 19:47:56,708 : INFO : test_e2e : number_of_phones4
+ 2024-10-24 19:48:15,331 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:48:15,331 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:48:15,331 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:48:15,331 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:48:15,331 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:48:15,340 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 19:48:15,341 : INFO : test_formSubmission : INFO message
+ 2024-10-24 19:48:15,341 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 19:48:15,341 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 19:48:15,341 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 19:48:15,349 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 19:48:15,349 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 19:48:15,850 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 19:48:19,337 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:48:19,337 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:48:19,337 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:48:19,337 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:48:19,337 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:48:19,337 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:48:19,337 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:48:19,337 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:48:19,337 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:48:19,337 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:48:19,346 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 19:48:19,346 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 19:48:19,346 : INFO : test_formSubmission : INFO message
+ 2024-10-24 19:48:19,346 : INFO : test_formSubmission : INFO message
+ 2024-10-24 19:48:19,346 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 19:48:19,346 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 19:48:19,346 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 19:48:19,346 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 19:48:19,346 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 19:48:19,346 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 19:48:19,356 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 19:48:19,356 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 19:48:19,356 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 19:48:19,356 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 19:48:19,892 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 19:48:19,892 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 19:50:46,191 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:50:46,191 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:50:46,191 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:50:46,191 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:50:46,191 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:50:46,199 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 19:50:46,200 : INFO : test_formSubmission : INFO message
+ 2024-10-24 19:50:46,200 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 19:50:46,200 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 19:50:46,200 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 19:50:46,210 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 19:50:46,210 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 19:50:46,697 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 19:50:51,727 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:50:51,727 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:50:51,727 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:50:51,727 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:50:51,727 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:50:51,727 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:50:51,727 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:50:51,727 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:50:51,727 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:50:51,727 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:50:51,736 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 19:50:51,736 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 19:50:51,737 : INFO : test_formSubmission : INFO message
+ 2024-10-24 19:50:51,737 : INFO : test_formSubmission : INFO message
+ 2024-10-24 19:50:51,737 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 19:50:51,737 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 19:50:51,737 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 19:50:51,737 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 19:50:51,737 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 19:50:51,737 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 19:50:51,747 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 19:50:51,747 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 19:50:51,747 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 19:50:51,747 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 19:50:52,227 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 19:50:52,227 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 19:51:42,712 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:51:42,712 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:51:42,712 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:51:42,712 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:51:42,712 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:51:42,720 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 19:51:42,720 : INFO : test_formSubmission : INFO message
+ 2024-10-24 19:51:42,720 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 19:51:42,720 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 19:51:42,720 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 19:51:42,729 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 19:51:42,730 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 19:51:43,202 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 19:51:47,196 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:51:47,196 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:51:47,197 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:51:47,197 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:51:47,197 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:51:47,197 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:51:47,197 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:51:47,197 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:51:47,197 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:51:47,197 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:51:47,205 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 19:51:47,205 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 19:51:47,205 : INFO : test_formSubmission : INFO message
+ 2024-10-24 19:51:47,205 : INFO : test_formSubmission : INFO message
+ 2024-10-24 19:51:47,205 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 19:51:47,205 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 19:51:47,206 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 19:51:47,206 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 19:51:47,206 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 19:51:47,206 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 19:51:47,213 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 19:51:47,213 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 19:51:47,213 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 19:51:47,213 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 19:51:47,742 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 19:51:47,742 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 19:51:52,066 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:51:52,066 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:51:52,066 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:51:52,066 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:51:52,066 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:51:52,066 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:51:52,066 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:51:52,066 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:51:52,066 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:51:52,067 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:51:52,067 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:51:52,067 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:51:52,067 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:51:52,067 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:51:52,067 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:51:52,072 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 19:51:52,072 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 19:51:52,072 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 19:51:52,072 : INFO : test_formSubmission : INFO message
+ 2024-10-24 19:51:52,072 : INFO : test_formSubmission : INFO message
+ 2024-10-24 19:51:52,072 : INFO : test_formSubmission : INFO message
+ 2024-10-24 19:51:52,073 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 19:51:52,073 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 19:51:52,073 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 19:51:52,073 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 19:51:52,073 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 19:51:52,073 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 19:51:52,073 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 19:51:52,073 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 19:51:52,073 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 19:51:52,088 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 19:51:52,088 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 19:51:52,088 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 19:51:52,088 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 19:51:52,088 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 19:51:52,088 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 19:51:52,601 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 19:51:52,601 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 19:51:52,601 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 19:51:58,157 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:51:58,157 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:51:58,157 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:51:58,157 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:51:58,158 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:51:58,158 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:51:58,158 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:51:58,158 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:51:58,158 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:51:58,158 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:51:58,158 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:51:58,158 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:51:58,158 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:51:58,158 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:51:58,158 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:51:58,158 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:51:58,158 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:51:58,158 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:51:58,158 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:51:58,158 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:51:58,166 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 19:51:58,166 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 19:51:58,166 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 19:51:58,166 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 19:51:58,166 : INFO : test_formSubmission : INFO message
+ 2024-10-24 19:51:58,166 : INFO : test_formSubmission : INFO message
+ 2024-10-24 19:51:58,166 : INFO : test_formSubmission : INFO message
+ 2024-10-24 19:51:58,166 : INFO : test_formSubmission : INFO message
+ 2024-10-24 19:51:58,167 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 19:51:58,167 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 19:51:58,167 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 19:51:58,167 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 19:51:58,167 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 19:51:58,167 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 19:51:58,167 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 19:51:58,167 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 19:51:58,167 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 19:51:58,167 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 19:51:58,167 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 19:51:58,167 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 19:51:58,177 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 19:51:58,177 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 19:51:58,177 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 19:51:58,177 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 19:51:58,178 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 19:51:58,178 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 19:51:58,178 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 19:51:58,178 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 19:51:58,692 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 19:51:58,692 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 19:51:58,692 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 19:51:58,692 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 19:52:03,214 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:52:03,214 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:52:03,214 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:52:03,214 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:52:03,214 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:52:03,214 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:52:03,214 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:52:03,214 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:52:03,214 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:52:03,214 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:52:03,215 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:52:03,215 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:52:03,215 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:52:03,215 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:52:03,215 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:52:03,215 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:52:03,215 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:52:03,215 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:52:03,215 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:52:03,215 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:52:03,215 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:52:03,215 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:52:03,215 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:52:03,215 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:52:03,215 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:52:03,226 : DEBUG : test_e2e : DEBUG messange
+ 2024-10-24 19:52:03,227 : INFO : test_e2e : INFO message
+ 2024-10-24 19:52:03,227 : WARNING : test_e2e : WARNING message
+ 2024-10-24 19:52:03,227 : ERROR : test_e2e : ERROR messgae
+ 2024-10-24 19:52:03,227 : CRITICAL : test_e2e : CRITICAL message
+ 2024-10-24 19:52:03,227 : INFO : test_e2e : Click on shop
+ 2024-10-24 19:52:03,905 : INFO : test_e2e : number_of_phones4
+ 2024-10-24 19:52:15,313 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:52:15,313 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:52:15,313 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:52:15,313 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:52:15,313 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:52:15,313 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 19:52:15,314 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:52:15,314 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:52:15,314 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:52:15,314 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:52:15,314 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:52:15,314 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 19:52:15,314 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:52:15,314 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:52:15,314 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:52:15,314 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:52:15,314 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:52:15,314 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 19:52:15,314 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:52:15,314 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:52:15,314 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:52:15,314 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:52:15,314 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:52:15,314 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 19:52:15,314 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:52:15,314 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:52:15,314 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:52:15,314 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:52:15,314 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:52:15,314 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 19:52:15,319 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 19:52:15,319 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 19:52:15,319 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 19:52:15,319 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 19:52:15,319 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 19:52:15,319 : INFO : test_formSubmission : INFO message
+ 2024-10-24 19:52:15,319 : INFO : test_formSubmission : INFO message
+ 2024-10-24 19:52:15,319 : INFO : test_formSubmission : INFO message
+ 2024-10-24 19:52:15,319 : INFO : test_formSubmission : INFO message
+ 2024-10-24 19:52:15,319 : INFO : test_formSubmission : INFO message
+ 2024-10-24 19:52:15,320 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 19:52:15,320 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 19:52:15,320 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 19:52:15,320 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 19:52:15,320 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 19:52:15,320 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 19:52:15,320 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 19:52:15,320 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 19:52:15,320 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 19:52:15,320 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 19:52:15,320 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 19:52:15,320 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 19:52:15,320 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 19:52:15,320 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 19:52:15,320 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 19:52:15,329 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 19:52:15,329 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 19:52:15,329 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 19:52:15,329 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 19:52:15,329 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 19:52:15,329 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 19:52:15,329 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 19:52:15,329 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 19:52:15,329 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 19:52:15,329 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 19:52:15,781 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 19:52:15,781 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 19:52:15,781 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 19:52:15,781 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 19:52:15,781 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 20:05:15,545 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 20:05:15,545 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 20:05:15,545 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 20:05:15,545 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 20:05:15,545 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 20:05:15,553 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 20:05:15,553 : INFO : test_formSubmission : INFO message
+ 2024-10-24 20:05:15,553 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 20:05:15,553 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 20:05:15,553 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 20:05:15,563 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 20:05:15,563 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 20:05:15,984 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 20:05:21,027 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 20:05:21,027 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 20:05:21,027 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 20:05:21,027 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 20:05:21,027 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 20:05:21,027 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 20:05:21,027 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 20:05:21,027 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 20:05:21,027 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 20:05:21,027 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 20:05:21,034 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 20:05:21,034 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 20:05:21,034 : INFO : test_formSubmission : INFO message
+ 2024-10-24 20:05:21,034 : INFO : test_formSubmission : INFO message
+ 2024-10-24 20:05:21,035 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 20:05:21,035 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 20:05:21,035 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 20:05:21,035 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 20:05:21,035 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 20:05:21,035 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 20:05:21,045 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 20:05:21,045 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 20:05:21,045 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 20:05:21,045 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 20:05:21,486 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 20:05:21,486 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 20:05:30,969 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 20:05:30,969 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 20:05:30,969 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 20:05:30,970 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 20:05:30,970 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 20:05:30,970 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 20:05:30,970 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 20:05:30,970 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 20:05:30,970 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 20:05:30,970 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 20:05:30,970 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 20:05:30,970 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 20:05:30,970 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 20:05:30,970 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 20:05:30,970 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 20:05:30,976 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 20:05:30,976 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 20:05:30,976 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 20:05:30,976 : INFO : test_formSubmission : INFO message
+ 2024-10-24 20:05:30,976 : INFO : test_formSubmission : INFO message
+ 2024-10-24 20:05:30,976 : INFO : test_formSubmission : INFO message
+ 2024-10-24 20:05:30,976 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 20:05:30,976 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 20:05:30,976 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 20:05:30,976 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 20:05:30,976 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 20:05:30,976 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 20:05:30,976 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 20:05:30,976 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 20:05:30,976 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 20:05:30,984 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 20:05:30,984 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 20:05:30,984 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 20:05:30,984 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 20:05:30,984 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 20:05:30,984 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 20:05:31,461 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 20:05:31,461 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 20:05:31,461 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 20:05:36,821 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 20:05:36,821 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 20:05:36,821 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 20:05:36,821 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 20:05:36,821 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 20:05:36,821 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 20:05:36,821 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 20:05:36,821 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 20:05:36,822 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 20:05:36,822 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 20:05:36,822 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 20:05:36,822 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 20:05:36,822 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 20:05:36,822 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 20:05:36,822 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 20:05:36,822 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 20:05:36,822 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 20:05:36,822 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 20:05:36,822 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 20:05:36,822 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 20:05:36,832 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 20:05:36,832 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 20:05:36,832 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 20:05:36,832 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 20:05:36,832 : INFO : test_formSubmission : INFO message
+ 2024-10-24 20:05:36,832 : INFO : test_formSubmission : INFO message
+ 2024-10-24 20:05:36,832 : INFO : test_formSubmission : INFO message
+ 2024-10-24 20:05:36,832 : INFO : test_formSubmission : INFO message
+ 2024-10-24 20:05:36,833 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 20:05:36,833 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 20:05:36,833 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 20:05:36,833 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 20:05:36,833 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 20:05:36,833 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 20:05:36,833 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 20:05:36,833 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 20:05:36,833 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 20:05:36,833 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 20:05:36,833 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 20:05:36,833 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 20:05:36,845 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 20:05:36,845 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 20:05:36,845 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 20:05:36,845 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 20:05:36,845 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 20:05:36,845 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 20:05:36,845 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 20:05:36,845 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 20:05:37,377 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 20:05:37,377 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 20:05:37,377 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 20:05:37,377 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 20:05:44,401 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 20:05:44,401 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 20:05:44,401 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 20:05:44,401 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 20:05:44,401 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 20:05:44,401 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 20:05:44,401 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 20:05:44,401 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 20:05:44,401 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 20:05:44,401 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 20:05:44,402 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 20:05:44,402 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 20:05:44,402 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 20:05:44,402 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 20:05:44,402 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 20:05:44,402 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 20:05:44,402 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 20:05:44,402 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 20:05:44,402 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 20:05:44,402 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 20:05:44,402 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 20:05:44,402 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 20:05:44,402 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 20:05:44,402 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 20:05:44,402 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 20:05:44,411 : DEBUG : test_e2e : DEBUG messange
+ 2024-10-24 20:05:44,412 : INFO : test_e2e : INFO message
+ 2024-10-24 20:05:44,412 : WARNING : test_e2e : WARNING message
+ 2024-10-24 20:05:44,412 : ERROR : test_e2e : ERROR messgae
+ 2024-10-24 20:05:44,412 : CRITICAL : test_e2e : CRITICAL message
+ 2024-10-24 20:05:44,412 : INFO : test_e2e : Click on shop
+ 2024-10-24 20:05:47,054 : INFO : test_e2e : number_of_phones4
+ 2024-10-24 20:06:03,783 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 20:06:03,783 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 20:06:03,783 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 20:06:03,783 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 20:06:03,783 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 20:06:03,783 : DEBUG : pytest_pyfunc_call : DEBUG messange
+ 2024-10-24 20:06:03,783 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 20:06:03,783 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 20:06:03,783 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 20:06:03,783 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 20:06:03,783 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 20:06:03,783 : INFO : pytest_pyfunc_call : INFO message
+ 2024-10-24 20:06:03,783 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 20:06:03,783 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 20:06:03,783 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 20:06:03,783 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 20:06:03,783 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 20:06:03,783 : WARNING : pytest_pyfunc_call : WARNING message
+ 2024-10-24 20:06:03,784 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 20:06:03,784 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 20:06:03,784 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 20:06:03,784 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 20:06:03,784 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 20:06:03,784 : ERROR : pytest_pyfunc_call : ERROR messgae
+ 2024-10-24 20:06:03,784 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 20:06:03,784 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 20:06:03,784 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 20:06:03,784 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 20:06:03,784 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 20:06:03,784 : CRITICAL : pytest_pyfunc_call : CRITICAL message
+ 2024-10-24 20:06:03,790 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 20:06:03,790 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 20:06:03,790 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 20:06:03,790 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 20:06:03,790 : DEBUG : test_formSubmission : DEBUG messange
+ 2024-10-24 20:06:03,791 : INFO : test_formSubmission : INFO message
+ 2024-10-24 20:06:03,791 : INFO : test_formSubmission : INFO message
+ 2024-10-24 20:06:03,791 : INFO : test_formSubmission : INFO message
+ 2024-10-24 20:06:03,791 : INFO : test_formSubmission : INFO message
+ 2024-10-24 20:06:03,791 : INFO : test_formSubmission : INFO message
+ 2024-10-24 20:06:03,791 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 20:06:03,791 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 20:06:03,791 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 20:06:03,791 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 20:06:03,791 : WARNING : test_formSubmission : WARNING message
+ 2024-10-24 20:06:03,791 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 20:06:03,791 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 20:06:03,791 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 20:06:03,791 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 20:06:03,791 : ERROR : test_formSubmission : ERROR messgae
+ 2024-10-24 20:06:03,791 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 20:06:03,791 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 20:06:03,791 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 20:06:03,791 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 20:06:03,791 : CRITICAL : test_formSubmission : CRITICAL message
+ 2024-10-24 20:06:03,801 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 20:06:03,801 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 20:06:03,801 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 20:06:03,801 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 20:06:03,801 : INFO : test_formSubmission : page title isProtoCommerce
+ 2024-10-24 20:06:03,801 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 20:06:03,801 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 20:06:03,801 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 20:06:03,801 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 20:06:03,801 : INFO : test_formSubmission : Entering name email pwd
+ 2024-10-24 20:06:04,305 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 20:06:04,305 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 20:06:04,305 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 20:06:04,305 : INFO : test_formSubmission : Page successfully submited
+ 2024-10-24 20:06:04,305 : INFO : test_formSubmission : Page successfully submited
